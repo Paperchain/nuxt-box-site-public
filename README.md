@@ -1,0 +1,1 @@
+# nuxt-box-site-public
